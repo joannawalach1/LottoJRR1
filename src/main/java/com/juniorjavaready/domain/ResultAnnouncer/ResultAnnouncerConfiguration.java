@@ -1,6 +1,4 @@
 package com.juniorjavaready.domain.ResultAnnouncer;
 
-
-class ResultAnnouncerFacadeTest {
-
+public class ResultAnnouncerConfiguration {
 }

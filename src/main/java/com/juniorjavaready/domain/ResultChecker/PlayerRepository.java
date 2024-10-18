@@ -1,6 +1,4 @@
 package com.juniorjavaready.domain.ResultChecker;
 
-
-class ResultCheckerFacadeTest {
-
+public interface PlayerRepository {
 }

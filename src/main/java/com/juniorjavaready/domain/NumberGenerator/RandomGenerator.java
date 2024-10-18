@@ -1,5 +1,4 @@
 package com.juniorjavaready.domain.NumberGenerator;
 
-class NumberGeneratorFacadeTest {
-  
+public class RandomGenerator {
 }
